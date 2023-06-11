@@ -1,0 +1,28 @@
+{
+  "name": "g-drive-risk-report",
+  "version": "1.0.0",
+  "description": "task from hirect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShubhamJorwal/Task-g-drive-risk.git"
+  },
+  "author": "Shubham jorwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShubhamJorwal/Task-g-drive-risk/issues"
+  },
+  "homepage": "https://github.com/ShubhamJorwal/Task-g-drive-risk#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "googleapis": "^118.0.0",
+    "mongoose": "^7.2.3",
+    "nodemon": "^2.0.22"
+  }
+}
